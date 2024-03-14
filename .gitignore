@@ -1,4 +1,7 @@
 raw_data/
 GoogleNews-vectors-negative300.bin.gz
-/Model 5 - XGBoost/train.json
-/Model 5 - XGBoost/most-common-words.txt
+.vscode/
+Model 4 - spaCy NER/data/
+Model 4 - spaCy NER/output/
+Model 5 - XGBoost/train.json
+Model 5 - XGBoost/most-common-words.txt
